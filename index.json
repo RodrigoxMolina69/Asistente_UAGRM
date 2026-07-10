@@ -1,4 +1,347 @@
 {
   "version": 1,
-  "documents": {}
+  "documents": {
+    "UAGRM/CERTIFICADOS/AVANCE ACADEMICO MODALIDAD DE GRADUACION (50 BS).pdf": {
+      "sha": "b2a08037eb0c535772319a2c512725f606c1e6d3",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "AVANCE ACADEMICO MODALIDAD DE GRADUACION (50 BS)"
+    },
+    "UAGRM/CERTIFICADOS/AVANCE ACADEMICO TRAMITES (15 BS).pdf": {
+      "sha": "bd823aa00f4eb249cba67610b1c33122333c4854",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "AVANCE ACADEMICO TRAMITES (15 BS)"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE ALUMNO REGULAR.pdf": {
+      "sha": "50206d0116dbea91709295ca04ec7137b7dc7ddb",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE ALUMNO REGULAR"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE FUNCIONAMIENTO TRAMITES PARA EL EXTERIOR, CURSO POSTGRADO.pdf": {
+      "sha": "96f9cd956e9d4ee4889660ff8c671df80342b312",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE FUNCIONAMIENTO TRAMITES PARA EL EXTERIOR, CURSO POSTGRADO"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE NO DEUDOR TITULOS.pdf": {
+      "sha": "4e986baf91f7d3cd063ea10a3032693637021005",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE NO DEUDOR TITULOS"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE NO DEUDOR TRAMITES.pdf": {
+      "sha": "1c41eb58557c5f794cb6b6c30ba6f2db9db7df92",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE NO DEUDOR TRAMITES"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE NOTAS.pdf": {
+      "sha": "aa64b248f08489790d658e7b7e7cdfafa0146b7a",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE NOTAS"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE VENCIMIENTO DEL PLAN DE ESTUDIO (PERSONAS CON TITULOS).pdf": {
+      "sha": "777e0649b820a634bd57e965fdcdedbde34daf9f",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE VENCIMIENTO DEL PLAN DE ESTUDIO (PERSONAS CON TITULOS)"
+    },
+    "UAGRM/CERTIFICADOS/CERTIFICADO DE VENCIMIENTO DEL PLAN DE ESTUDIO.pdf": {
+      "sha": "a504e1110e5be49fe55b8c0766384e1d36738374",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "CERTIFICADO DE VENCIMIENTO DEL PLAN DE ESTUDIO"
+    },
+    "UAGRM/CERTIFICADOS/DUPLICADO DE BOLETA DE INSCRIPCION.pdf": {
+      "sha": "4831ffc30c353de1401d6b712ed6a017db997d8e",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "DUPLICADO DE BOLETA DE INSCRIPCION"
+    },
+    "UAGRM/CERTIFICADOS/HISTORICO ACADEMICO.pdf": {
+      "sha": "49989e1eb8cbdfeaebe43a80859402accdbcc4fc",
+      "categoria": "CERTIFICADOS",
+      "tipo_documento": "CERTIFICADO",
+      "nombre_documento": "HISTORICO ACADEMICO"
+    },
+    "UAGRM/FORMULARIOS/FICHA DE ACTUALIZACION DE DATOS PERSONALES.pdf": {
+      "sha": "d88b12f372df98ceb1ae6de0adaefc49645326ee",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FICHA DE ACTUALIZACION DE DATOS PERSONALES"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO DE CORRECCION DE CORREO.pdf": {
+      "sha": "34a0de67d002662fbcf2d9b578f6edcfeb1ed27e",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO DE CORRECCION DE CORREO"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO DE CORRECCION DE DATOS PERSONALES.pdf": {
+      "sha": "d0d511fdd5fd45b4423da98e41bb190b5736d52d",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO DE CORRECCION DE DATOS PERSONALES"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO DE SOLICITUD DESISTIMIENTO.pdf": {
+      "sha": "9ae8a7ba7eacbdf50826992cbe750aefeb8f7a0c",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO DE SOLICITUD DESISTIMIENTO"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO HISTORICO EVALUACION ORAL.pdf": {
+      "sha": "82ab15ad620fcc07594312fe0b176385fb217589",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO HISTORICO EVALUACION ORAL"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO PARA CAMBIO DE RESIDENCIA.pdf": {
+      "sha": "f373035d022d7f65bee8b6d3ecf498c3f0881428",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO PARA CAMBIO DE RESIDENCIA"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO PARA CONFIRMACION DE LEVANTAMIENTO DE REGISTRO.pdf": {
+      "sha": "e7dc0fdca45c39997f403d65aa8d03bb898899af",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO PARA CONFIRMACION DE LEVANTAMIENTO DE REGISTRO"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO PARA EXENCION DE PRUEBA ADMISION.pdf": {
+      "sha": "e4a48929f5996ba7f10b41cbf4f8e1bd318f60bf",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO PARA EXENCION DE PRUEBA ADMISION"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO PARA LEVANTAMIENTO DE REGISTRO.pdf": {
+      "sha": "d61786495801aa7bbe2f2d7651c107b29b3c4082",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO PARA LEVANTAMIENTO DE REGISTRO"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO PARA MODALIDAD VIRTUAL.pdf": {
+      "sha": "230610437832a8ba1351b20e43201b6b0c461b17",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO PARA MODALIDAD VIRTUAL"
+    },
+    "UAGRM/FORMULARIOS/FORMULARIO PARA READMISION.pdf": {
+      "sha": "ebf73ba4699da6249c96616c09e352968cd2be14",
+      "categoria": "FORMULARIOS",
+      "tipo_documento": "FORMULARIO",
+      "nombre_documento": "FORMULARIO PARA READMISION"
+    },
+    "UAGRM/MODELO DE CARTAS/FICHA DE SOLICITUD PARA EMISION DE FORMULARIO POR CAMBIO DE CARRERA.pdf": {
+      "sha": "e7bec77181f9f4ae06f7d56f76073b68e7c98c38",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "FICHA DE SOLICITUD PARA EMISION DE FORMULARIO POR CAMBIO DE CARRERA"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE ANULACIÓN DE FORMULARIO DE CAMBIO DE CARRERA.pdf": {
+      "sha": "09220cde857b052ee14918a75dbffeecf6772958",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE ANULACIÓN DE FORMULARIO DE CAMBIO DE CARRERA"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE CAMBIO DE PLAN DE ESTUDIOS.pdf": {
+      "sha": "cdc08478913b35b2b51e651f5e375c6ef9946aab",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE CAMBIO DE PLAN DE ESTUDIOS"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE CAMBIO DE RESIDENCIA.pdf": {
+      "sha": "166d92f41d7f93e6c1d6181d212346f03d1cd06f",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE CAMBIO DE RESIDENCIA"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE CAMBIO MODALIDAD DE ESTUDIOS.pdf": {
+      "sha": "bc74b4bfe015d770ff42ebfaf39023735eece5f4",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE CAMBIO MODALIDAD DE ESTUDIOS"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE CIERRE DE KARDEX.pdf": {
+      "sha": "e7a128c5afdca49949e0b3b9dd023cdeb5679a27",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE CIERRE DE KARDEX"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE CORRECCIÓN DE NOTA (MATERIA EN MORA).pdf": {
+      "sha": "0d6dba28d7c6308bfc7df561323eac326d614322",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE CORRECCIÓN DE NOTA (MATERIA EN MORA)"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE CORRECCIÓN DE NOTA.pdf": {
+      "sha": "52f22beeffdb3bc5e0a787988188812fd71f9e8d",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE CORRECCIÓN DE NOTA"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE EXENCIÓN PARA PROFESIONALES Y CASOS ESPECIALES.pdf": {
+      "sha": "68981d90fa3bffec47941d9daf5bab5a574d752e",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE EXENCIÓN PARA PROFESIONALES Y CASOS ESPECIALES"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE PRORROGA DE TITULO DE BACHILLER.pdf": {
+      "sha": "d0f2ada7d8fa9d9addcf014bde27c04895cb3f99",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE PRORROGA DE TITULO DE BACHILLER"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE REAPERTURA DE KARDEX.pdf": {
+      "sha": "753e0085100aadc8e801aeb5c46a816158f9a5ad",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE REAPERTURA DE KARDEX"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE REASIGNACION DE NUMERO DE REGISTRO.pdf": {
+      "sha": "1976d746ff8b1208b0ea12065b4f276ad4270889",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE REASIGNACION DE NUMERO DE REGISTRO"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE RETIRO DE MATERIA EN MORA (GRL).pdf": {
+      "sha": "1764ab3587a1a7ddcab91234b1a509ef61b6c799",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE RETIRO DE MATERIA EN MORA (GRL)"
+    },
+    "UAGRM/MODELO DE CARTAS/SOLICITUD DE RETIRO INDEFINIDO.pdf": {
+      "sha": "2fac4c4fa90a5a7d0bfb6a1562a0726736c7ec32",
+      "categoria": "MODELO DE CARTAS",
+      "tipo_documento": "MODELO DE CARTAS",
+      "nombre_documento": "SOLICITUD DE RETIRO INDEFINIDO"
+    },
+    "UAGRM/TRAMITES/ANULACION DE FORMULARIO DE CAMBIO DE CARRERA.pdf": {
+      "sha": "1d2f2695a106a1a7a9cac27ebe5bbc575a25ae51",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "ANULACION DE FORMULARIO DE CAMBIO DE CARRERA"
+    },
+    "UAGRM/TRAMITES/CAMBIO DE CARRERA EN LA MISMA FACULTAD.pdf": {
+      "sha": "e33389bdaa155d19abdb258da221b8f1252c8ff1",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CAMBIO DE CARRERA EN LA MISMA FACULTAD"
+    },
+    "UAGRM/TRAMITES/CAMBIO DE CARRERA INTERFACULTAD.pdf": {
+      "sha": "7d96b9f07ab4280dfb641584c5206f4fce670f8b",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CAMBIO DE CARRERA INTERFACULTAD"
+    },
+    "UAGRM/TRAMITES/CAMBIO DE MODALIDAD DE PRESENCIAL A VIRTUAL.pdf": {
+      "sha": "229e539d9e25abbde908027cd8fe328c9d1ba428",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CAMBIO DE MODALIDAD DE PRESENCIAL A VIRTUAL"
+    },
+    "UAGRM/TRAMITES/CAMBIO DE PLAN.pdf": {
+      "sha": "330cf876d39a528f8cda9da8b24065c3d7f7ec34",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CAMBIO DE PLAN"
+    },
+    "UAGRM/TRAMITES/CAMBIO DE RESIDENCIA (DE UNA FACULTAD INTEGRAL A CIUDAD O VICEVERSA).pdf": {
+      "sha": "424e358131b6b257d114e240e2903cbe8dd45a36",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CAMBIO DE RESIDENCIA (DE UNA FACULTAD INTEGRAL A CIUDAD O VICEVERSA)"
+    },
+    "UAGRM/TRAMITES/CAMBIO DE RESIDENCIA (DE UNA FACULTAD INTEGRAL A OTRA FACULTAD INTEGRAL).pdf": {
+      "sha": "b2815246bdd0dbc41fedc82771249e6b56cfebcf",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CAMBIO DE RESIDENCIA (DE UNA FACULTAD INTEGRAL A OTRA FACULTAD INTEGRAL)"
+    },
+    "UAGRM/TRAMITES/CIERRE DE KARDEX.pdf": {
+      "sha": "9b5e9d434ad9d51cca66a53cbc4d0a5e0d5f0811",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CIERRE DE KARDEX"
+    },
+    "UAGRM/TRAMITES/CONSOLIDACION DE REGISTRO UNIVERSITARIO ESTUDIANTES NUEVOS.pdf": {
+      "sha": "1f32d0a339594b21b4abae72ac21b9c0ab250901",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CONSOLIDACION DE REGISTRO UNIVERSITARIO ESTUDIANTES NUEVOS"
+    },
+    "UAGRM/TRAMITES/CORRECCION DE DATOS PERSONALES (NOMBRE, APELLIDO O CARNET DE IDENTIDAD).pdf": {
+      "sha": "efeec3380c296c937f1f1974252514c932d89901",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CORRECCION DE DATOS PERSONALES (NOMBRE, APELLIDO O CARNET DE IDENTIDAD)"
+    },
+    "UAGRM/TRAMITES/CORRECCION DE NOTA (MATERIA EN MORA).pdf": {
+      "sha": "d7c8a79f210bb444c9a7ba6d52472b0492c955d9",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CORRECCION DE NOTA (MATERIA EN MORA)"
+    },
+    "UAGRM/TRAMITES/CORRECCION DE NOTA (MATERIA NORMAL).pdf": {
+      "sha": "c576aa5764a2e41adb1f574d2aeb19b6b7002241",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "CORRECCION DE NOTA (MATERIA NORMAL)"
+    },
+    "UAGRM/TRAMITES/DESCUENTO PARA MAESTRIA.pdf": {
+      "sha": "6090ea1e0ae18df8b5aab2fe5f4824e1b6757c4d",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "DESCUENTO PARA MAESTRIA"
+    },
+    "UAGRM/TRAMITES/EXENCION PARA PROFESIONALES Y CASOS ESPECIALES.pdf": {
+      "sha": "828978efb14a51139eb07a5b15486bb0f4e73e76",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "EXENCION PARA PROFESIONALES Y CASOS ESPECIALES"
+    },
+    "UAGRM/TRAMITES/LEVANTAMIENTO DEL NUMERO DE REGISTRO UNIVERSITARIO.pdf": {
+      "sha": "3e162ebbeec39040517254b84b59c988dfc4a252",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "LEVANTAMIENTO DEL NUMERO DE REGISTRO UNIVERSITARIO"
+    },
+    "UAGRM/TRAMITES/READMISION.pdf": {
+      "sha": "823414d3ec9b40ff4f5da4d90ea2fbcad114a8c1",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "READMISION"
+    },
+    "UAGRM/TRAMITES/REAPERTURA DE KARDEX.pdf": {
+      "sha": "cc605aea6585e96ce0bb419d5922a42a1dd39b89",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "REAPERTURA DE KARDEX"
+    },
+    "UAGRM/TRAMITES/RETIRO DE MATERIA EN MORA (GRL).pdf": {
+      "sha": "90fe59d46c6126daa4a52a977e8a85ec8f53be70",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "RETIRO DE MATERIA EN MORA (GRL)"
+    },
+    "UAGRM/TRAMITES/RETIRO INDEFINIDO.pdf": {
+      "sha": "c980f775adeea9f9fd900fbb4093607330df4f45",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "RETIRO INDEFINIDO"
+    },
+    "UAGRM/TRAMITES/RETIRO VOLUNTARIO.pdf": {
+      "sha": "17e65f05d6d36b1d3c18854ba5367cce712f115d",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "RETIRO VOLUNTARIO"
+    },
+    "UAGRM/TRAMITES/TRASPASO DE UNIVERSIDADES DEL SISTEMA A LA U.A.G.R.M.pdf": {
+      "sha": "9c933a7f279c1253e2f0fbdb866573e8eff296d1",
+      "categoria": "TRAMITES",
+      "tipo_documento": "TRAMITE",
+      "nombre_documento": "TRASPASO DE UNIVERSIDADES DEL SISTEMA A LA U.A.G.R.M"
+    }
+  }
 }
